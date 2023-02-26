@@ -2,7 +2,7 @@
 layout: post
 title:  "整理整頓大事"
 date:   2023-02-26 21:51:15 +0900
-categories: 日常
+categories: jekyll update
 ---
 
 やろうやろうと思っていて、できていなかった部屋の掃除を、
