@@ -30,7 +30,7 @@ plugins:
   - disqus-for-jekyll
 
 disqus:
-  name: yoshihiro1909
+  name: "yoshihiro1909"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
