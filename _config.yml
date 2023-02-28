@@ -27,7 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - disqus-for-jekyll
+  - "disqus-for-jekyll"
 
 disqus:
   name: "yoshihiro1909"
