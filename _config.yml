@@ -28,7 +28,8 @@ theme: minima
 plugins:
   - jekyll-feed
 # Disqus comments
-disqus_shortname: yoshihiro1909
+disqus:
+  shortname:  yoshihiro1909
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
