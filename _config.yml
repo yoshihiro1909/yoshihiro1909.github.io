@@ -24,8 +24,10 @@ github_username:  yoshihiro1909
 
 # Build settings
 markdown: kramdown
-theme: minima
-# plugins:
+# theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 #   - jekyll-feed
 
 disqus:
