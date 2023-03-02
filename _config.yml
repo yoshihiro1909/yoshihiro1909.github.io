@@ -18,7 +18,7 @@ title: 雑記
 description: >- # this means to ignore newlines until "baseurl:"
   何故か衰えてきた説明力をリハビリするためのブログ
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yoshihiro1909.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yoshihiro1909 
 github_username:  yoshihiro1909
 
@@ -30,7 +30,6 @@ theme: minima
 
 disqus:
   shortname: yoshihiro1909
-  url: https://yoshihiro1909.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
