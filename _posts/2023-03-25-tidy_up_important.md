@@ -6,6 +6,8 @@ categories: jekyll update
 comments: true
 ---
 
+#
+
 やろうやろうと思っていて、できていなかった部屋の掃除を、
 弟に賃金を払ってやってもらうという手段で解決した。
 
