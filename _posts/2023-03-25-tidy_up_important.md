@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "整理整頓大事"
+title:  整理整頓大事
 date:   2023-02-26 21:51:15 +0900
 categories: jekyll update
 comments: true
