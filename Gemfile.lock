@@ -80,7 +80,8 @@ DEPENDENCIES
   jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
   jekyll-sitemap
-  minima (~> 2.5.1)
+  kramdown-parser-gfm
+  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
